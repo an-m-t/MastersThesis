@@ -1,0 +1,26 @@
+Check one order 
+-> get data
+-> get next vectors
+-> get next_vectors_reverse
+-> get complex data
+-> get complex data reversed 
+
+annotate scatter
+
+Plot: imaginary points
+Plot: PCA on normal data
+Plot: PCA on vector data
+Plot: PCA on whole complex data
+    -> Plot real & imaginary arrows
+Plot: PCA on whole reversed complex data
+    -> Plot real & imaginary arrows
+
+
+TODO
+Change colours and labels in plot
+heatmap: reverse
+
+---------------------------
+heatmeap reverse:
+
+complex sep lines, zigzag

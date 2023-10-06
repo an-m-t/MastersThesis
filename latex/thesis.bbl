@@ -1,0 +1,317 @@
+\begin{thebibliography}{10}
+
+\bibitem{news-ordering}
+Rishi Advani, Paolo Papotti, and Abolfazl Asudeh.
+\newblock Maximizing neutrality in news ordering.
+\newblock In {\em Proceedings of the 29th ACM SIGKDD Conference on Knowledge
+  Discovery and Data Mining}, KDD '23, page 11–24, New York, NY, USA, 2023.
+  Association for Computing Machinery.
+
+\bibitem{uncentered-pca-burned}
+Nikos Alexandris, Sandeep Gupta, and Nikos Koutsias.
+\newblock Remote sensing of burned areas via pca, part 1; centering, scaling
+  and evd vs svd.
+\newblock {\em Open Geospatial Data, Software and Standards}, 2017.
+
+\bibitem{atoms-graphs}
+Akbar Ali, Kinkar Das, Darko Dimitrov, and Boris Furtula.
+\newblock Atom-bond connectivity index of graphs: a review over extremal
+  results and bounds.
+\newblock {\em Discrete Mathematics Letters}, 5, 03 2021.
+
+\bibitem{t-SNE}
+Mehala Balamurali.
+\newblock t-distributed stochastic neighbor embedding.
+\newblock In B.S. Daya~Sagar, Qiuming Cheng, Jennifer McKinley, and Frits
+  Agterberg, editors, {\em Encyclopedia of Mathematical Geosciences}, pages
+  1--9, Cham, 2020. Springer International Publishing.
+
+\bibitem{chemical-compounds}
+Igor~I. Baskin, Vladimir~A. Palyulin, and Nikolai~S. Zefirov.
+\newblock A neural device for searching direct correlations between structures
+  and properties of chemical compounds.
+\newblock {\em J. Chem. Inf. Comput. Sci.}, 37:715--721, 1997.
+
+\bibitem{dropp}
+Anna Beer, Olivér Palotás, Andrea Maldonado, Andrew Draganov, and Ira Assent.
+\newblock Dropp: Structure-aware pca for ordered data - a general method and
+  its applications in climate research and molecular dynamics.
+\newblock UNPUBLISHED, 2023.
+
+\bibitem{introduction-dtw}
+Donald~J. Berndt and James Clifford.
+\newblock Using dynamic time warping to find patterns in time series.
+\newblock In {\em Proceedings of the 3rd International Conference on Knowledge
+  Discovery and Data Mining}, AAAIWS'94, page 359–370. AAAI Press, 1994.
+
+\bibitem{mts-flights}
+Kanishka Bhaduri.
+\newblock Multivariate time series search, 2011.
+\newblock Accessed August 4, 2023.
+  \url{https://data.nasa.gov/dataset/Multivariate-Time-Series-Search/mrcc-b53g}.
+
+\bibitem{Random-projection}
+Ella Bingham and Heikki Mannila.
+\newblock Random projection in dimensionality reduction: Applications to image
+  and text data.
+\newblock In {\em Proceedings of the Seventh ACM SIGKDD International
+  Conference on Knowledge Discovery and Data Mining}, KDD '01, page 245–250,
+  New York, NY, USA, 2001. Association for Computing Machinery.
+
+\bibitem{sign-flip}
+Rasmus Bro, Evrim Acar, and Tamara Kolda.
+\newblock Resolving the sign ambiguity in the singular value decomposition.
+\newblock {\em Journal of Chemometrics}, 22:135 -- 140, 02 2008.
+
+\bibitem{relation-centered-uncentered-PCA}
+Jorge Cadima and Ian Jolliffe.
+\newblock On relationships between uncentred and column-centred principal
+  component analysis.
+\newblock {\em Pakistan Joudnal of Statistics}, 25(4), 2009.
+
+\bibitem{tsne-drawback}
+Yanshuai Cao and Luyu Wang.
+\newblock Automatic selection of t-sne perplexity, 2017.
+
+\bibitem{graph-data}
+D.J. Cook and L.B. Holder.
+\newblock {\em Mining Graph Data}.
+\newblock Wiley, 2006.
+
+\bibitem{kNN}
+T.~Cover and P.~Hart.
+\newblock Nearest neighbor pattern classification.
+\newblock {\em IEEE Transactions on Information Theory}, 13(1):21--27, 1967.
+
+\bibitem{linear-dim-red}
+John~P. Cunningham and Zoubin Ghahramani.
+\newblock Linear dimensionality reduction: Survey, insights, and
+  generalizations, 2016.
+
+\bibitem{kNN-application}
+Subramaniam Dhanabal and Chandramathi SA.
+\newblock A review of various k-nearest neighbor query processing techniques.
+\newblock {\em Int. J. Comput. Appl.}, 3, 01 2011.
+
+\bibitem{dtw-image}
+Diab~M. Diab, Basil AsSadhan, Hamad Binsalleeh, Sangarapillai Lambotharan,
+  Konstantinos~G. Kyriakopoulos, and Ibrahim Ghafir.
+\newblock Anomaly detection using dynamic time warping.
+\newblock In {\em 2019 IEEE International Conference on Computational Science
+  and Engineering (CSE) and IEEE International Conference on Embedded and
+  Ubiquitous Computing (EUC)}, pages 193--198, 2019.
+
+\bibitem{spatial-data}
+M.M. Fischer and J.~Wang.
+\newblock {\em Spatial Data Analysis: Models, Methods and Techniques}.
+\newblock SpringerBriefs in Regional Science. Springer Berlin Heidelberg, 2011.
+
+\bibitem{LLE}
+Benyamin Ghojogh, Ali Ghodsi, Fakhri Karray, and Mark Crowley.
+\newblock Locally linear embedding and its variants: Tutorial and survey, 2020.
+
+\bibitem{distance-measure}
+Rassoul Hajizadeh, A.~Aghagolzadeh, and M.~Ezoji.
+\newblock Local distances preserving based manifold learning.
+\newblock {\em Expert Systems with Applications}, 139:112860, 2020.
+
+\bibitem{inject-bias}
+Felix Hamborg, Karsten Donnay, and Bela Gipp.
+\newblock Automated identification of media bias in news articles: an
+  interdisciplinary literature review.
+\newblock {\em International Journal on Digital Libraries}, 20, 12 2019.
+
+\bibitem{pca-only-independent}
+Fang Han and Han Liu.
+\newblock Principal component analysis on non-gaussian dependent data.
+\newblock In {\em Proceedings of the 30th International Conference on
+  International Conference on Machine Learning - Volume 28}, ICML'13, page
+  I–240–I–248. JMLR.org, 2013.
+
+\bibitem{error-measures}
+Rob~J. Hyndman and Anne~B. Koehler.
+\newblock Another look at measures of forecast accuracy.
+\newblock {\em International Journal of Forecasting}, 22(4):679--688, 2006.
+
+\bibitem{nlp-sentences}
+Shoaib Jameel and Steven Schockaert.
+\newblock Modeling context words as regions: An ordinal regression approach to
+  word embedding.
+\newblock In {\em Proceedings of the 21st Conference on Computational Natural
+  Language Learning ({C}o{NLL} 2017)}, pages 123--133, Vancouver, Canada,
+  August 2017. Association for Computational Linguistics.
+
+\bibitem{weighted-dtw}
+Young-Seon Jeong, Myong~K. Jeong, and Olufemi~A. Omitaomu.
+\newblock Weighted dynamic time warping for time series classification.
+\newblock {\em Pattern Recognition}, 44(9):2231--2240, 2011.
+\newblock Computer Analysis of Images and Patterns.
+
+\bibitem{PCA-joliffe}
+I.T. Jolliffe.
+\newblock {\em Principal Component Analysis}.
+\newblock Springer Series in Statistics. Springer, 2002.
+
+\bibitem{2d-often}
+Hyeong~Ryeol Kam, Sung-Ho Lee, Taejung Park, and Chang-Hun Kim.
+\newblock Rviz: a toolkit for real domain data visualization.
+\newblock {\em Telecommunication Systems}, 60(1572-9451), 2015.
+
+\bibitem{information-loss}
+Nandakishore Kambhatla and Todd~K. Leen.
+\newblock Dimension reduction by local principal component analysis.
+\newblock {\em Neural Computation}, 9(7):1493--1516, 1997.
+
+\bibitem{scaling-dtw}
+Eamonn~J. Keogh and Michael~J. Pazzani.
+\newblock Scaling up dynamic time warping for datamining applications.
+\newblock In {\em Proceedings of the Sixth ACM SIGKDD International Conference
+  on Knowledge Discovery and Data Mining}, KDD '00, page 285–289, New York,
+  NY, USA, 2000. Association for Computing Machinery.
+
+\bibitem{pca-not-for-discrete}
+Stanislav Kolenikov and Gustavo Angeles.
+\newblock Socioeconomic status measurement with discrete proxy variables: Is
+  principal component analysis a reliable answer?
+\newblock {\em Review of Income and Wealth}, 55(1):128--165, 2009.
+
+\bibitem{PCA-optimisation}
+Yang Liu, Feiping Nie, Quanxue Gao, Xinbo Gao, Jungong Han, and Ling Shao.
+\newblock Flexible unsupervised feature extraction for image classification.
+\newblock {\em Neural Networks}, 115:65--71, 2019.
+
+\bibitem{umap-implementation}
+Leland McInnes, John Healy, Nathaniel Saul, and Lukas Grossberger.
+\newblock Umap: Uniform manifold approximation and projection.
+\newblock {\em The Journal of Open Source Software}, 3(29):861, 2018.
+
+\bibitem{pca-often}
+Sergio Munoz-Romero, Vanessa Gomez-Verdejo, and Jeronimo Arenas-Garcia.
+\newblock Regularized multivariate analysis framework for interpretable
+  high-dimensional variable selection.
+\newblock {\em IEEE Computational Intelligence Magazine}, 11(4):24--35, 2016.
+
+\bibitem{tICA}
+Yusuke Naritomi and Sotaro Fuchigami.
+\newblock {Slow dynamics in protein fluctuations revealed by time-structure
+  based independent component analysis: The case of domain motions}.
+\newblock {\em The Journal of Chemical Physics}, 134(6):065101, 02 2011.
+
+\bibitem{cip-computers}
+RBG /~IT of~Institut für Informatik~der LMU.
+\newblock General available compute resources at ifi.
+\newblock online, n.d.
+\newblock Accessed September 19, 2023.
+  \url{https://www.rz.ifi.lmu.de/infos/compute_en.html}.
+
+\bibitem{timeseries}
+Emanuel Parzen.
+\newblock {An Approach to Time Series Analysis}.
+\newblock {\em The Annals of Mathematical Statistics}, 32(4):951 -- 989, 1961.
+
+\bibitem{russell2000}
+Chi~Seng Pun.
+\newblock Low- and high-dimensional stock price data, 2017.
+
+\bibitem{air_pollution}
+Uday~Kiran Rage.
+\newblock 5+ years of multiple time series data of hourly pm2.5 recordings
+  gathered from various sensors located throughout japan (1-1-2018 to
+  25-4-2023), 2023.
+\newblock Accessed August 9, 2023.
+  \url{https://data.mendeley.com/datasets/phgrnvykmr/1}.
+
+\bibitem{pca-clustering}
+R.~Remesan, M.~Bray, and J.~Mathew.
+\newblock Application of pca and clustering methods in input selection of
+  hybrid runoff models.
+\newblock {\em Journal of Environmental Informatics}, 31(2), June 2018.
+
+\bibitem{fastdtw-implementation}
+Stan Salvador and Philip Chan.
+\newblock Toward accurate dynamic time warping in linear time and space.
+\newblock {\em Intell. Data Anal.}, 11(5):561–580, oct 2007.
+
+\bibitem{isomers}
+P.S.D. Sarker and L.~Nahar.
+\newblock {\em Chemistry for Pharmacy Students: General, Organic and Natural
+  Product Chemistry}.
+\newblock Wiley, 2013.
+
+\bibitem{website-pca}
+scikit-learn developers.
+\newblock scikit-learn, 2023.
+\newblock Accessed September 25, 2023.
+  \url{https://github.com/scikit-learn/scikit-learn/blob/55a65a2fa/sklearn/decomposition/_pca.py#L118}.
+
+\bibitem{website-tsne}
+scikit-learn developers.
+\newblock sklearn.manifold.tsne, 2023.
+\newblock Accessed September 23, 2023.
+  \url{https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html}.
+
+\bibitem{PCA-tutorial}
+Jonathon Shlens.
+\newblock A tutorial on principal component analysis.
+\newblock {\em CoRR}, abs/1404.1100, 2014.
+
+\bibitem{global-vs-local-nonlinear-dim-reduction}
+Vin Silva and Joshua Tenenbaum.
+\newblock Global versus local methods in nonlinear dimensionality reduction.
+\newblock In S.~Becker, S.~Thrun, and K.~Obermayer, editors, {\em Advances in
+  Neural Information Processing Systems}, volume~15. MIT Press, 2002.
+
+\bibitem{PCA-global-structure-preserving}
+{Song, Yinglei}, {Li, Yongzhong}, and {Qu, Junfeng}.
+\newblock Preserving global and local structures for supervised dimensionality
+  reduction.
+\newblock {\em MATEC Web of Conferences}, 28:06003, 2015.
+
+\bibitem{ICA-book}
+James~V. Stone.
+\newblock {\em {Independent Component Analysis: A Tutorial Introduction}}.
+\newblock The MIT Press, 09 2004.
+
+\bibitem{lsda}
+Bing Su, Xiaoqing Ding, Hao Wang, and Ying Wu.
+\newblock Discriminative dimensionality reduction for multi-dimensional
+  sequences.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  40(1):77--91, 2018.
+
+\bibitem{lda}
+Alaa Tharwat, Tarek Gaber, Abdelhameed Ibrahim, and Aboul~Ella Hassanien.
+\newblock Linear discriminant analysis: A detailed tutorial.
+\newblock {\em AI Communications}, 30(2), 2017.
+
+\bibitem{dimensionality-curse}
+Michel Verleysen and Damien Fran{\c{c}}ois.
+\newblock The curse of dimensionality in data mining and time series
+  prediction.
+\newblock In Joan Cabestany, Alberto Prieto, and Francisco Sandoval, editors,
+  {\em Computational Intelligence and Bioinspired Systems}, pages 758--770,
+  Berlin, Heidelberg, 2005. Springer Berlin Heidelberg.
+
+\bibitem{neighborhood-presv-embedding}
+Jinping Wang, Ruisheng Ran, and Bin Fang.
+\newblock Global and local structure network for image classification.
+\newblock {\em IEEE Access}, 11:27963--27973, 2023.
+
+\bibitem{global-local-structure}
+Yingfan Wang, Haiyang Huang, Cynthia Rudin, and Yaron Shaposhnik.
+\newblock Understanding how dimension reduction tools work: An empirical
+  approach to deciphering t-sne, umap, trimap, and pacmap for data
+  visualization.
+\newblock {\em J. Mach. Learn. Res.}, 22(1), jan 2021.
+
+\bibitem{drawback-LLE}
+F.C. Wu and Z.Y. Hu.
+\newblock The lle and a linear mapping.
+\newblock {\em Pattern Recognition}, 39(9):1799--1804, 2006.
+
+\bibitem{order-important}
+Guo Yu and Jacob Bien.
+\newblock Learning local dependence in ordered data.
+\newblock {\em Journal of Machine Learning Research}, 18(42):1--60, 2017.
+
+\end{thebibliography}

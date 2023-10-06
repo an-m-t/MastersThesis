@@ -1,0 +1,45 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Related Work}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Global Structure Preserving Dimensionality Reduction Methods}{chapter.2}% 3
+\BOOKMARK [2][-]{subsection.2.1.1}{Principal Component Analysis}{section.2.1}% 4
+\BOOKMARK [2][-]{subsection.2.1.2}{Linear Discriminant Analysis}{section.2.1}% 5
+\BOOKMARK [1][-]{section.2.2}{Local Structure Preserving Dimensionality Reduction Methods}{chapter.2}% 6
+\BOOKMARK [2][-]{subsection.2.2.1}{Locally Linear Embedding}{section.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.2}{t-Distributed Stochastic Neighbour Embedding}{section.2.2}% 8
+\BOOKMARK [2][-]{subsection.2.2.3}{Uniform Manifold Approximation and Projection }{section.2.2}% 9
+\BOOKMARK [2][-]{subsection.2.2.4}{Random Projections}{section.2.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.5}{Locality Preserving Projections}{section.2.2}% 11
+\BOOKMARK [1][-]{section.2.3}{Dimensionality Reduction on Ordered Data}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.3.1}{Time-Lagged Independent Component Analysis}{section.2.3}% 13
+\BOOKMARK [2][-]{subsection.2.3.2}{Linear Sequence Discriminant Analysis}{section.2.3}% 14
+\BOOKMARK [0][-]{chapter.3}{Dimensionality Reduction on Ordered Data}{}% 15
+\BOOKMARK [1][-]{section.3.1}{Ordered Data}{chapter.3}% 16
+\BOOKMARK [1][-]{section.3.2}{Structure and Order Preservation}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.3}{Variants of Principal Component Analysis}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.3.1}{PCA with Ids}{section.3.3}% 19
+\BOOKMARK [2][-]{subsection.3.3.2}{Complex PCA on Ordered Data}{section.3.3}% 20
+\BOOKMARK [2][-]{subsection.3.3.3}{PCA*}{section.3.3}% 21
+\BOOKMARK [0][-]{chapter.4}{Experiments}{}% 22
+\BOOKMARK [1][-]{section.4.1}{Datasets}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.2}{Quality Measures for Dimensionality Reduction Algorithms}{chapter.4}% 24
+\BOOKMARK [1][-]{section.4.3}{Implementation Details}{chapter.4}% 25
+\BOOKMARK [1][-]{section.4.4}{Experiments with CPCA on Synthetic Data}{chapter.4}% 26
+\BOOKMARK [2][-]{subsection.4.4.1}{Expanding the Dimensionality of the Transformation}{section.4.4}% 27
+\BOOKMARK [2][-]{subsection.4.4.2}{Exploration of Increasing Numbers of Neighbours}{section.4.4}% 28
+\BOOKMARK [2][-]{subsection.4.4.3}{Analysis of Growing Numbers of Neighbours and Transformation Dimensions}{section.4.4}% 29
+\BOOKMARK [1][-]{section.4.5}{Evaluation with PCA* on Synthetic Data}{chapter.4}% 30
+\BOOKMARK [2][-]{subsection.4.5.1}{Increasing the Number of Dimensions of the Original Space}{section.4.5}% 31
+\BOOKMARK [2][-]{subsection.4.5.2}{Expanding the Dimensionality of the Transformation}{section.4.5}% 32
+\BOOKMARK [2][-]{subsection.4.5.3}{Exploration of Increasing Numbers of Neighbours}{section.4.5}% 33
+\BOOKMARK [2][-]{subsection.4.5.4}{Analysis of Growing Numbers of Neighbours and Transformation Dimensions}{section.4.5}% 34
+\BOOKMARK [2][-]{subsection.4.5.5}{Number of Lines Versus the Number of Neighbours}{section.4.5}% 35
+\BOOKMARK [1][-]{section.4.6}{Evaluation on Real-World and Simulated Data}{chapter.4}% 36
+\BOOKMARK [2][-]{subsection.4.6.1}{Expanding the Dimensionality of the Transformation}{section.4.6}% 37
+\BOOKMARK [2][-]{subsection.4.6.2}{Exploration of Increasing Numbers of Neighbours}{section.4.6}% 38
+\BOOKMARK [2][-]{subsection.4.6.3}{Analysis of Growing Numbers of Neighbours and Transformation Dimensions}{section.4.6}% 39
+\BOOKMARK [1][-]{section.4.7}{Limitations of Experiments}{chapter.4}% 40
+\BOOKMARK [1][-]{section.4.8}{Experimental Results}{chapter.4}% 41
+\BOOKMARK [0][-]{chapter.5}{Future Work}{}% 42
+\BOOKMARK [0][-]{chapter.6}{Conclusion}{}% 43
+\BOOKMARK [0][-]{appendix.A}{Technical Details on Experiments}{}% 44
+\BOOKMARK [0][-]{appendix*.15}{Bibliography}{}% 45

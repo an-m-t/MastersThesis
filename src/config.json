@@ -1,0 +1,25 @@
+{   
+    "order": "zigzag",
+    "num_lines": 5,
+    "num_points_per_line": 100,
+    "bounds": [0, 100],
+    "jitter_bound" : 5,
+    "parallel_start_end" : false,
+
+    "starting_dimension" : 100,
+    "target_dimension" : 2,
+
+    "k" : 1,
+
+    "seed" : 123,
+    "dist_measure": "multiple_scalar_product",
+    "sep_measure" : false,
+
+    "pca_choice" : "complex_pca_svd_complex",
+    "scaling_choice": "vector_pca",
+
+    "num_outliers": 0,
+    "when_shuffle" : "",
+    "reconstruction_error_real" : true,
+    "standardise" : false
+}

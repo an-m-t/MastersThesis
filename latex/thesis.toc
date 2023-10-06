@@ -1,0 +1,57 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Related Work}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Global Structure Preserving Dimensionality Reduction Methods}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Principal Component Analysis}{5}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Linear Discriminant Analysis}{8}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Local Structure Preserving Dimensionality Reduction Methods}{8}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Locally Linear Embedding}{9}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}t-Distributed Stochastic Neighbour Embedding}{9}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Uniform Manifold Approximation and Projection }{10}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Random Projections}{10}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Locality Preserving Projections}{10}{subsection.2.2.5}%
+\contentsline {section}{\numberline {2.3}Dimensionality Reduction on Ordered Data}{11}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Time-Lagged Independent Component Analysis}{11}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Linear Sequence Discriminant Analysis}{12}{subsection.2.3.2}%
+\contentsline {chapter}{\numberline {3}Dimensionality Reduction on Ordered Data}{13}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Ordered Data}{13}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Structure and Order Preservation}{14}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Variants of Principal Component Analysis}{19}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}PCA with Ids}{19}{subsection.3.3.1}%
+\contentsline {paragraph}{PCA on Discrete Data}{20}{section*.3}%
+\contentsline {paragraph}{Distortion of Order Distances}{20}{section*.4}%
+\contentsline {paragraph}{Loss of Interpretability}{20}{section*.5}%
+\contentsline {subsection}{\numberline {3.3.2}Complex PCA on Ordered Data}{20}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}PCA*}{24}{subsection.3.3.3}%
+\contentsline {chapter}{\numberline {4}Experiments}{29}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Datasets}{29}{section.4.1}%
+\contentsline {paragraph}{Synthetic Data}{29}{section*.6}%
+\contentsline {paragraph}{Simulated and Real-World Data}{30}{section*.7}%
+\contentsline {section}{\numberline {4.2}Quality Measures for Dimensionality Reduction Algorithms}{31}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Implementation Details}{37}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Experiments with CPCA on Synthetic Data}{37}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Expanding the Dimensionality of the Transformation}{38}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Exploration of Increasing Numbers of Neighbours}{43}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Analysis of Growing Numbers of Neighbours and Transformation Dimensions}{45}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Evaluation with PCA* on Synthetic Data}{53}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Increasing the Number of Dimensions of the Original Space}{53}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Expanding the Dimensionality of the Transformation}{56}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Exploration of Increasing Numbers of Neighbours}{61}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}Analysis of Growing Numbers of Neighbours and Transformation Dimensions}{63}{subsection.4.5.4}%
+\contentsline {subsection}{\numberline {4.5.5}Number of Lines Versus the Number of Neighbours}{71}{subsection.4.5.5}%
+\contentsline {section}{\numberline {4.6}Evaluation on Real-World and Simulated Data}{78}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Expanding the Dimensionality of the Transformation}{78}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Exploration of Increasing Numbers of Neighbours}{83}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}Analysis of Growing Numbers of Neighbours and Transformation Dimensions}{84}{subsection.4.6.3}%
+\contentsline {section}{\numberline {4.7}Limitations of Experiments}{93}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Experimental Results}{93}{section.4.8}%
+\contentsline {chapter}{\numberline {5}Future Work}{95}{chapter.5}%
+\contentsline {paragraph}{NLP and Text Analysis}{95}{section*.9}%
+\contentsline {paragraph}{Multiple Sequential Orders}{95}{section*.10}%
+\contentsline {paragraph}{Partially Ordered Data}{95}{section*.11}%
+\contentsline {paragraph}{Variable-Length Data}{96}{section*.12}%
+\contentsline {paragraph}{Further Explorations for CPCA}{96}{section*.13}%
+\contentsline {paragraph}{Order-Based Distance Preservation in Local Structure Preserving Methods}{96}{section*.14}%
+\contentsline {chapter}{\numberline {6}Conclusion}{97}{chapter.6}%
+\contentsline {chapter}{\numberline {A}Technical Details on Experiments}{98}{appendix.A}%
+\contentsline {chapter}{Bibliography}{99}{appendix*.15}%
